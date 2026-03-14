@@ -1,0 +1,16 @@
+.DS_Store
+.env.*.local
+
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.supabase/
+config.bat

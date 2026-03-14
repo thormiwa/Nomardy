@@ -1,0 +1,1 @@
+"""Itinerary generation route placeholder."""

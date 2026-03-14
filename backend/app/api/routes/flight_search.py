@@ -1,0 +1,1 @@
+"""Flight search route placeholder."""
